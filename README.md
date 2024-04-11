@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwasp05" alt="vishwasp05" /></a> </p>
 
-- Vishwas Sharma [LoTR Currency Converter](https://github.com/Vishwasp05/LOTR-CurrencyCOnverter)
+- Vishwas Sharma [Say My Name](https://github.com/Vishwasp05/BBQUOTES)
 
 - 🌱 I’m currently learning **Swift, SwiftUI, Java, SpringBoot**
 
