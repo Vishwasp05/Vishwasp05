@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwas Sharma</h1>
-<h1 align="center">iOS Intern @Swiggy-Dineout </h1>
+<h1 align="center">iOS Intern @Stealth </h1>
 <h3 align="center">Aspiring iOS Developer | Indie Dev | Building Cool Stuff 🚀</h3>
 
 <p align="center">
